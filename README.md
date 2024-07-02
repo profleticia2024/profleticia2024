@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá 👋
+
+Seja bem-vindo(a) ao meu perfil!
 
 <!--
 **profleticia2024/profleticia2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
